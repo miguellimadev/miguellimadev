@@ -6,10 +6,7 @@
 
 <p data-importer="text" align="left">Web development student | Studying JavaScript and Python |</p>
 
-###
-
-<h2 data-importer="text" align="left">Stats</h2>
-
+### 
 
 
 <div data-importer="socials" align="left">
